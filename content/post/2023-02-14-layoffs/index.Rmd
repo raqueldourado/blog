@@ -1,0 +1,8 @@
+---
+title: Layoffs
+author: Raquel
+date: '2023-02-14'
+slug: layoffs
+categories: []
+tags: []
+---
